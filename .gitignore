@@ -1,6 +1,5 @@
 /bucles
 /clases/studients.py
-list_exercise.txt
-pathlib.txt
-archivo.txt
+/manejador_archivos
+*.txt
 *.pdf
