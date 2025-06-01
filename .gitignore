@@ -1,5 +1,8 @@
 /bucles
 /clases/studients.py
 /manejador_archivos
+/images
 *.txt
 *.pdf
+*.lock
+Pipfile
