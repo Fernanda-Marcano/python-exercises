@@ -2,6 +2,7 @@
 /clases/studients.py
 /manejador_archivos
 /images
+/image_processor
 *.txt
 *.pdf
 *.lock
